@@ -4,7 +4,7 @@ import spacy
 import numpy as np
 import os
 from collections import defaultdict
-
+#this is comment 
 app = Flask(__name__)
 
 # Configure static file serving
