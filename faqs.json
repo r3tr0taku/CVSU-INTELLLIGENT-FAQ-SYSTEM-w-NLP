@@ -1,388 +1,741 @@
 {
   "faqs": [
 
-    
+   
     {
-      "question": "What is the vision of Cavite State University (CvSU)?",
-      "answer": "To be the premier university in historic Cavite recognized for excellence in the development of globally competitive and morally upright individuals."
+      "question": "What is the full name of the university?",
+      "answer": "The university is called Cavite State University (CvSU)."
+    },
+    {
+      "question": "What is the vision of Cavite State University?",
+      "answer": "CvSU aims to be the premier university in historic Cavite recognized for excellence in the development of globally competitive and morally upright individuals."
     },
     {
       "question": "What is the mission of CvSU?",
       "answer": "To provide excellent, equitable, and relevant educational opportunities in the arts, sciences and technology through quality instruction and responsive research and development activities."
     },
     {
-      "question": "What are CvSU's core values?",
-      "answer": "CvSU promotes values such as integrity, excellence, service, and social responsibility in all academic and co-curricular activities."
+      "question": "What core values does CvSU promote?",
+      "answer": "CvSU promotes integrity, excellence, service, social responsibility, and ethical behavior among students, faculty, and staff."
     },
     {
-      "question": "Where can I find the history and brief background of CvSU?",
-      "answer": "The handbook contains a detailed history of CvSU, its evolution from the Indang Intermediate School (1906), and the establishment of branch campuses—please consult the Foreword and Humble Beginnings sections."
+      "question": "Where can I find the university's institutional goals?",
+      "answer": "Institutional goals are listed in the Student Handbook and include quality instruction, research, extension services, and community engagement—consult the handbook's introductory sections for details."
     },
     {
-      "question": "What are the main institutional goals of CvSU?",
-      "answer": "CvSU aims to provide quality instruction, responsive research, community extension services, and the formation of morally upright and globally competitive professionals."
+      "question": "Where can I read the history of CvSU?",
+      "answer": "A brief history and background of CvSU, including founding milestones and campus development, is available in the handbook's 'History' section and on the university website."
     },
     {
-      "question": "How does CvSU support research and community extension?",
-      "answer": "CvSU runs research and extension programs, partners with government and private agencies, and supports technology transfer, community training, and applied research projects."
+      "question": "Who should I contact for official announcements?",
+      "answer": "Official announcements are issued by the Office of the University President, the Registrar, and relevant offices; information is posted on notice boards and the official website."
     },
     {
-      "question": "How do I contact the university administration or relevant offices?",
-      "answer": "Contact details for the President, Vice Presidents, Deans, and key administrative offices are listed in the handbook and on the university website."
+      "question": "Which campuses and colleges are part of CvSU?",
+      "answer": "CvSU comprises several campuses and colleges offering programs in agriculture, engineering, education, arts & sciences, fisheries, veterinary medicine, and others—see the handbook campus directory for a full list."
     },
     {
-      "question": "Is CvSU accredited and does it pursue program accreditation?",
-      "answer": "CvSU encourages program accreditation (e.g., AACCUP) and maintains a quality assurance office to prepare programs for external review."
+      "question": "How does CvSU ensure quality and accreditation?",
+      "answer": "CvSU pursues internal quality assurance and external accreditation initiatives (e.g., AACCUP) and has offices responsible for program review and compliance."
     },
     {
-      "question": "What campuses and colleges make up CvSU?",
-      "answer": "CvSU is composed of multiple campuses and colleges offering programs in agriculture, engineering, arts & sciences, education, fisheries, veterinary medicine, and more—see campus listings in the handbook."
-    },
-    {
-      "question": "Where can I find official announcements and circulars?",
-      "answer": "Official announcements, circulars, and memoranda are posted on university bulletin boards, the official website, and distributed through campus channels; students are responsible for checking these."
+      "question": "Where can I find contact details for administrative offices?",
+      "answer": "Contact information for administrative offices (President, VPs, Deans, Registrar, OSA) is listed in the handbook and on the university website."
     },
 
-    
+  
     {
-      "question": "What are the admission requirements for freshmen?",
-      "answer": "Requirements typically include a completed application form, high school report card (Form 138), certificate of good moral character, medical/physical fitness certification, entrance exam fee payment, and passing the entrance examinations as required by the program."
+      "question": "What are the general admission requirements for freshmen?",
+      "answer": "Freshmen applicants typically must submit a completed application form, high school report card (Form 138), PSA/NSO birth certificate, certificate of good moral character, two passport-size photos, and pay the entrance exam fee; they must also pass entrance requirements for the chosen program."
     },
     {
-      "question": "What fees are required for admission or entrance exams?",
-      "answer": "Entrance/exam fees are set by the University and may change; check the latest schedule. (Historically an entrance exam fee is collected; refer to the Registrar for current amount.)"
+      "question": "What documents do transferees need to apply?",
+      "answer": "Transferees must present an Honorable Dismissal, Transcript of Records, certificate of good moral character, course descriptions, passport-size photos, and other documents required by the Registrar, and may be subject to evaluation or placement exams."
     },
     {
-      "question": "What are the requirements for transferees?",
-      "answer": "Transferees must submit an Honorable Dismissal, Transcript of Records, certificate of good moral character, photos, any required clearances, and pass any placement or screening evaluations required by the receiving college."
+      "question": "What are the requirements for returning students?",
+      "answer": "Returning students must secure clearance from the previous school (if applicable), settle obligations, fill out re-enrollment forms, provide identification, and comply with any update of curriculum requirements."
     },
     {
-      "question": "What are the admission rules for foreign students?",
-      "answer": "Foreign students must submit a valid study permit, pay the foreign student fee, present proof of English proficiency, and comply with additional documentary requirements (e.g., passport, visa) as required by the Registrar and international office."
+      "question": "How do I apply for admission?",
+      "answer": "Complete the application form (online or paper), attach required documents, pay any application fees, and follow instructions from the Admissions or Registrar’s Office for entrance exams or interviews."
     },
     {
-      "question": "How do I enroll or register for classes?",
-      "answer": "Enrollment steps usually involve checking the schedule of classes, consulting your adviser, filling out registration forms, paying assessed fees, and officially completing registration with the Registrar’s Office."
+      "question": "Is there an entrance exam?",
+      "answer": "Many programs require an entrance exam or screening test. Check program-specific admission requirements from the Admissions Office."
+    },
+    {
+      "question": "What is early admission or special admissions?",
+      "answer": "Special admission rules (e.g., for athletes, scholars, or program-specific entry) are outlined in the handbook or by the Admissions Office; these may include separate evaluation criteria or exemptions."
+    },
+    {
+      "question": "How do I complete enrollment/registration?",
+      "answer": "Enrollment includes verifying your schedule, consulting your adviser, submitting registration forms, paying assessed fees, and receiving official enrollment confirmation from the Registrar."
     },
     {
       "question": "What is late registration and are there penalties?",
-      "answer": "Late registration is allowed within the specified late period (commonly up to 7 school days after regular registration). A late registration fine is charged (historical example: P100; check current schedule)."
+      "answer": "Late registration is permitted within a specified late period but usually incurs a fine. Specific deadlines and fines are provided in the academic calendar and Registrar announcements."
     },
     {
-      "question": "What is cross-enrollment (cross-registration) and how do I apply?",
-      "answer": "Cross-enrollment allows students to take courses at another institution or campus with prior written permission from the home Registrar; a maximum number of cross-enrolled units applies (commonly up to 6 units for the program)."
+      "question": "Can I enroll online or do I need to be on campus?",
+      "answer": "Enrollment procedures may include online components depending on university systems; check specific steps from the Registrar—certain documents may need physical submission."
     },
     {
-      "question": "What documents do I need to bring to the Registrar for enrollment?",
-      "answer": "Typical documents include registration form, proof of payment, identification, previous transcripts (if transferee), medical certificates (if required), and other documents specified by the Registrar."
+      "question": "What is cross-enrollment or cross-registration?",
+      "answer": "Cross-enrollment allows students to take courses at another campus/institution with prior approval from the home registrar. Limits on units and course equivalency rules apply (commonly a maximum of 6 units)."
     },
     {
-      "question": "What is the schedule of payment for tuition and fees?",
-      "answer": "Payment schedules (installments) are set by the University; historically an example schedule is 50% upon registration, 25% two weeks before midterms, and 25% two weeks before finals—verify current policy with Cashier/Registrar."
+      "question": "How do I request cross-enrollment?",
+      "answer": "Submit a formal request/permit from your home school registrar, present course descriptions for equivalency, obtain approval signatures, and follow the receiving institution’s registration procedures."
     },
     {
-      "question": "How do I apply for late enrollment or late adding of subjects?",
-      "answer": "Late adding requires approval from the Registrar and Payment of applicable fines; procedures and time windows vary—check with the Registrar's Office for current rules."
+      "question": "What are the fees for admission and enrollment?",
+      "answer": "Fees include application/exam fees, tuition, miscellaneous fees, and other program-specific charges. The Cashier issues official assessments during enrollment."
+    },
+    {
+      "question": "What identification is required for enrollment?",
+      "answer": "Valid government ID and student ID (if existing) may be required. Freshmen must present authenticated records and recent passport photos as specified."
+    },
+    {
+      "question": "Are there quotas or program-specific selection criteria?",
+      "answer": "Some programs may have selective admission criteria, quotas, or higher entrance requirements—refer to program guides or the Admissions Office."
+    },
+    {
+      "question": "Can foreign applicants apply to CvSU?",
+      "answer": "Yes. Foreign applicants must submit passport, visa documents, proof of English proficiency (if required), and other documents per international student guidelines; consult the Registrar or International Office."
+    },
+    {
+      "question": "What is the deadline for submitting admission documents?",
+      "answer": "Deadlines are published in the admissions schedule and academic calendar. Late submissions may not be accepted or may require special approval."
+    },
+    {
+      "question": "How do I check my admission status?",
+      "answer": "Admission status is usually posted online or can be inquired from the Admissions/Registrar Office; accepted applicants receive official notices and instructions for enrollment."
+    },
+    {
+      "question": "Are there special admission provisions for athletes or scholars?",
+      "answer": "Yes — certain programs or scholarships may have special admission pathways for qualified athletes or scholars; contact the OSA or Admissions for details and requirements."
+    },
+    {
+      "question": "What happens if my documents are incomplete?",
+      "answer": "Incomplete documentation may delay processing or prevent enrollment; follow up with Registrar for required items and deadlines to complete your application."
+    },
+
+    {
+      "question": "What is CvSU's grading scale?",
+      "answer": "CvSU commonly uses a numeric scale from 1.00 (Excellent) to 5.00 (Failed). Passing grade is 3.00; 4.00 is conditional; 5.00 is failing. Exact grade descriptors are in the handbook."
+    },
+    {
+      "question": "How is a student's GPA computed?",
+      "answer": "GPA is computed by weighted average of course grades multiplied by unit values divided by total units taken; consult the Registrar for exact computation formulas and examples."
+    },
+    {
+      "question": "What is a conditional grade (4.00)?",
+      "answer": "A grade of 4.00 indicates conditional status; the student must remove the condition by taking a removal exam or completing required work within one year; otherwise it may convert to 5.00."
+    },
+    {
+      "question": "What does 'Inc.' (Incomplete) mean and how is it handled?",
+      "answer": "Inc. denotes incomplete requirements. Students have one year to complete outstanding work; if not completed, Inc. may convert to a failing grade (5.00) per university policy."
+    },
+    {
+      "question": "What are academic deficiencies and their categories?",
+      "answer": "Academic deficiency categories typically include Warning (deficiencies in ~30–50% of subjects), Probation (deficiencies in >50% of subjects), and Disqualification (failure in a critical proportion, e.g., 75% or more)."
+    },
+    {
+      "question": "What are the consequences of academic probation?",
+      "answer": "Probation may restrict academic load, require remedial actions, and place conditions on continued enrollment; persistent deficiency may lead to disqualification."
+    },
+    {
+      "question": "How many units can a student take per semester?",
+      "answer": "Normal unit loads depend on curriculum. Exceptional loads (e.g., up to 26 units) may be allowed for graduating students meeting GPA criteria, subject to approval."
+    },
+    {
+      "question": "Can I repeat a course I failed?",
+      "answer": "Yes — students may repeat failed courses, generally up to three attempts. Repeating rules and limits are in the handbook; repeated failures may cause academic consequences."
+    },
+    {
+      "question": "What are rules regarding prerequisites and concurrent enrollment?",
+      "answer": "Prerequisites must be satisfied before taking advanced courses. Concurrent enrollment in prerequisite and the advanced course is generally not allowed unless specifically permitted by department."
+    },
+    {
+      "question": "What is the policy for adding or dropping courses?",
+      "answer": "Students may add/drop courses within specified periods (e.g., add within first weeks, drop within first six weeks of classes) and must follow official procedures with approvals and possible fee adjustments."
+    },
+    {
+      "question": "What is the official academic calendar?",
+      "answer": "The academic calendar with registration, class start/end, exams, and break dates is published by the Registrar each term and should be consulted for deadlines and schedules."
+    },
+    {
+      "question": "What is the policy on academic records and transcripts?",
+      "answer": "Transcripts are issued by the Registrar upon request and payment of fees. Official transcripts reflect complete academic history and may be withheld if obligations are unsettled."
+    },
+    {
+      "question": "What happens if I miss an exam due to valid reasons?",
+      "answer": "If an absence from exams is supported by valid documentation (e.g., medical), arrangements for make-up or removal may be permitted per instructor and Registrar rules."
+    },
+    {
+      "question": "Is there a grade appeal process?",
+      "answer": "Yes — students may appeal grades through prescribed channels (course instructor, department, dean, academic council) within specified timeframes with substantiating evidence."
+    },
+    {
+      "question": "How is academic dishonesty handled?",
+      "answer": "Academic dishonesty (plagiarism, cheating) is subject to disciplinary action that may include failing the assignment/course, suspension, or expulsion depending on severity and findings."
+    },
+    {
+      "question": "What are withdrawal and readmission rules?",
+      "answer": "Withdrawal procedures require formal application; readmission after extended absence follows Registrar rules and may involve updated requirements or conditional enrollment."
+    },
+    {
+      "question": "How are graduation requirements enforced?",
+      "answer": "Students must complete all required courses, adhere to residency and residency time limits, satisfy clearances, and meet minimum GPA and other program-specific criteria for graduation."
+    },
+    {
+      "question": "Are there special regulations for thesis/dissertation students?",
+      "answer": "Thesis/dissertation students must follow research guidelines, obtain adviser approval, register research units, and adhere to defense and submission timelines as specified by the college."
+    },
+    {
+      "question": "What are the policies on credit transfer and equivalency?",
+      "answer": "Credit transfer requires evaluation of previous courses for equivalency; approvals are granted by department/Registrar based on content and grade thresholds."
+    },
+    {
+      "question": "Are there residency requirements for program completion?",
+      "answer": "Yes — at least a portion of units must be completed at CvSU for graduation; specific residency duration and unit minimums vary by program and are detailed in the handbook."
+    },
+    {
+      "question": "What is academic load limit during summer or special terms?",
+      "answer": "Summer loads are limited (e.g., up to three lecture courses or one lab and one lecture), and rules differ from regular semesters—check the summer term guidelines."
+    },
+    {
+      "question": "How are academic records corrected if errors occur?",
+      "answer": "Error corrections are requested through the Registrar with supporting documentation; grade changes require instructor and dean approval and proper forms."
     },
 
     
     {
-      "question": "What grading system does CvSU use?",
-      "answer": "CvSU uses a numerical grading system where 1.00 is highest (Excellent) and 5.00 is failing. A grade of 3.00 is a passing grade. '4.00' is a conditional grade and 'Inc.' indicates Incomplete."
+      "question": "What are the tuition fees for my program?",
+      "answer": "Tuition and fees vary by program and campus; official fee schedules are provided at registration and by the Cashier/Accounting Office."
     },
     {
-      "question": "What is an 'Incomplete (Inc.)' grade and how is it removed?",
-      "answer": "An 'Inc.' indicates the student is passing but has not completed requirements. The student must complete requirements within one (1) year from the term it was incurred; otherwise the Inc may convert to 5.00."
+      "question": "How do I view my assessed fees and payment deadlines?",
+      "answer": "Fee assessments are provided during enrollment; payment schedules and deadlines are announced by the Cashier and published in the academic calendar."
     },
     {
-      "question": "What is a conditional grade (4.00) and how is it resolved?",
-      "answer": "A grade of 4.00 is conditional and may be removed by passing a removal examination within one year or taking the scheduled removal exam; failure to remove it within the time limit may result in conversion to 5.00."
+      "question": "Can I pay my fees in installments?",
+      "answer": "Installment plans may be available subject to approval by the Cashier; check current payment policies and documentation requirements."
     },
     {
-      "question": "What are the rules on academic deficiency (warning, probation, disqualification)?",
-      "answer": "Academic deficiency categories: Warning (deficiencies in ~30–50% of subjects), Probation (deficiencies in ~51% or more), and Disqualification (failures in ~75% or more) — each has prescribed consequences for enrollment and load."
+      "question": "What is the refund policy for tuition and fees?",
+      "answer": "Refunds are allowed within specified periods (commonly within the first three weeks or 15 school days for semestral programs). Refund percentages depend on timing; consult Accounting for details."
     },
     {
-      "question": "How many times may I repeat a subject?",
-      "answer": "A student may repeat a subject up to three (3) times. Repeating and failing for the third time may disqualify the student from further registration in the University."
+      "question": "What fees are non-refundable?",
+      "answer": "Certain fees (e.g., application, ID, some service fees) may be non-refundable; refer to Accounting or the published fee schedule for specifics."
     },
     {
-      "question": "What are the rules on prerequisites and concurrent registration?",
-      "answer": "Students cannot register for an advanced subject without passing its prerequisite(s). Concurrent registration for prerequisites and advanced subjects is generally not allowed unless explicitly permitted by the college."
+      "question": "How do I apply for a scholarship?",
+      "answer": "Submit scholarship application forms and required documents to the Office of Student Affairs or Financial Assistance Unit; follow posted deadlines and selection criteria."
     },
     {
-      "question": "What is the normal academic load and are there exceptions?",
-      "answer": "Normal load is set by the curriculum. Graduating students with sufficient GPA may be granted higher loads (e.g., up to 26 units in final semesters) subject to approval."
+      "question": "What documents are required for scholarship application?",
+      "answer": "Typically forms include an application, recent grade slip or transcript, certificate of good moral character, proof of income (if required), and other program-specific items."
     },
     {
-      "question": "What is the policy on removal examinations and fees?",
-      "answer": "Removal exams allow students to remove conditional grades; special removal exams may incur a fee (historical example: P10 per unit) and follow procedures set by the Registrar and Dean."
+      "question": "What are the conditions for scholarship renewal?",
+      "answer": "Renewal criteria generally include maintaining a minimum GPA, full-time enrollment, and compliance with conduct requirements as specified by each scholarship program."
     },
     {
-      "question": "What is the time-limit rule for completing a degree?",
-      "answer": "Degree students are generally expected to finish within a limit (e.g., at most two years beyond the prescribed program length); non-degree programs have separate limits—check the handbook for specifics."
+      "question": "Are there government scholarship programs available?",
+      "answer": "Yes — government-funded scholarships may be available; the OSA or Financial Assistance Unit handles applications and coordination with government agencies."
     },
     {
-      "question": "How is GPA and honors computation handled?",
-      "answer": "GPA computation follows university guidelines; to be eligible for honors, students must meet GPA bands (e.g., Summa, Magna, Cum Laude) and other conditions such as residency and minimum grade thresholds."
-    },
-
-    
-    {
-      "question": "What are the tuition and miscellaneous fees?",
-      "answer": "Tuition and fees depend on program and campus. Official fee assessments are issued at registration—contact the Cashier/Registrar for the current schedule."
+      "question": "What happens if I lose my scholarship due to low GPA?",
+      "answer": "Loss of scholarship due to failure to meet GPA or conduct requirements may result in suspension of benefits; appeals can be made per scholarship rules but reinstatement is not guaranteed."
     },
     {
-      "question": "What is the official refund policy for fees and deposits?",
-      "answer": "Refund rules vary by fee type; refunds for certain fees are allowed within a specified period from the start of classes (commonly within three weeks or 15 school days for semestral programs). See Accounting/Registrar for details."
+      "question": "How do I request a refund for overpayment?",
+      "answer": "Overpayment refunds are processed by Accounting upon submission of proper documentation and verification; the refund may be credited to future assessments or returned per procedures."
     },
     {
-      "question": "Which fees are refundable?",
-      "answer": "Some fees such as tuition, laboratory fees, student resource fund, and selected institutional fees may be refundable within the prescribed period; other fees (e.g., ID, medical/dental fees) are typically non-refundable—confirm with Accounting."
+      "question": "Are payment receipts required for record purposes?",
+      "answer": "Yes — always keep official receipts from the Cashier as proof of payment; receipts are required for any fee disputes or adjustments."
     },
     {
-      "question": "How are scholarships awarded and renewed?",
-      "answer": "Scholarships (full and partial) are typically awarded based on academic performance (GPA) and other criteria. Renewal depends on meeting the required semester GPA and minimum grade requirements specified for each scholarship type."
+      "question": "What financial assistance programs are offered?",
+      "answer": "Financial assistance includes scholarships, grants, student loans (if available), work-study or student assistantships, and special program aid—contact OSA for available options."
     },
     {
-      "question": "What GPA is required for full and partial scholarships?",
-      "answer": "Eligibility varies by scholarship type. Examples in the handbook include: full (university) scholarships for undergraduates may require a GPA around 1.50 or better and a minimum grade floor; partial scholarships require a slightly lower GPA threshold—refer to the OSA for exact criteria."
+      "question": "How do I apply for student assistant positions?",
+      "answer": "Student assistant positions are announced by departments; applicants must meet eligibility requirements and apply per HR/College guidelines."
     },
     {
-      "question": "Are there scholarship stipends or allowances?",
-      "answer": "Some scholarship programs include monthly stipends and book allowances; amounts and coverage depend on the scholarship source (University, government, or private sponsors). See the OSA for details."
+      "question": "Can I defer my tuition payment?",
+      "answer": "Payment deferral may be considered on a case-by-case basis with proper documentation and approval; contact the Cashier for possible arrangements."
     },
     {
-      "question": "Can fees be paid in installments?",
-      "answer": "Yes — the University may permit installment payment schedules. Check the current schedule and requirements with the Cashier before registration."
+      "question": "What is the process for scholarship appeals?",
+      "answer": "Appeals for scholarship decisions are submitted to the scholarship committee or OSA with supporting documents and justification; decisions follow the scholarship's policy and timeline."
     },
     {
-      "question": "What happens if I overpay or need a refund due to overpayment?",
-      "answer": "Overpayments are processed according to Accounting procedures; in some cases the excess is credited to future assessments or refunded subject to documentation. See Accounting for the refund process."
+      "question": "Are there discounts or fee exemptions?",
+      "answer": "Fee discounts or exemptions may be granted for qualified cases such as employee dependents, special programs, or scholarship awards; check Accounting or OSA for eligibility and procedure."
     },
     {
-      "question": "Who handles scholarship applications and queries?",
-      "answer": "The Office of Student Affairs (OSA), often through its Financial Assistance Unit, manages scholarship programs, processes applications, and handles inquiries and screening."
-    },
-    {
-      "question": "What is the policy on scholarship delinquency or loss of scholarship?",
-      "answer": "Failure to meet scholarship requirements (e.g., GPA thresholds, conduct rules) may result in scholarship suspension or loss according to OSA policies—students are advised to consult scholarship guidelines for appeals and procedures."
+      "question": "How do I check scholarship status?",
+      "answer": "Scholarship awardees are notified by OSA; status updates are available from OSA or the Financial Assistance Unit."
     },
 
-    
+   
     {
-      "question": "What is the Student Code of Conduct?",
-      "answer": "The Code of Conduct outlines expected behavior: respect for persons, honesty, academic integrity, and adherence to university rules. Violations are subject to disciplinary procedures."
+      "question": "What are the expected standards of student conduct?",
+      "answer": "Students are expected to demonstrate respect, honesty, integrity, courtesy, and compliance with university rules and community standards."
     },
     {
-      "question": "What actions are considered academic dishonesty?",
-      "answer": "Academic dishonesty includes cheating on exams, plagiarism, falsification of records, and other dishonest acts regarding academic work—these carry disciplinary sanctions."
+      "question": "What constitutes academic dishonesty?",
+      "answer": "Academic dishonesty includes cheating in examinations, plagiarism, fabrication, falsification of records, and other acts of dishonesty in academic work."
     },
     {
-      "question": "What are minor, major, and grave offenses and examples?",
-      "answer": "Minor offenses may include tardiness or minor disruptions; major offenses include repeated misconduct or vandalism; grave offenses include violence, drug offenses, theft or crimes—sanctions escalate with severity."
+      "question": "What are examples of minor offenses?",
+      "answer": "Minor offenses include tardiness, minor disturbances, unauthorized presence in restricted areas, and non-compliance with minor classroom rules."
     },
     {
-      "question": "What disciplinary measures may be imposed?",
-      "answer": "Disciplinary actions may include warnings, probation, suspension, restitution, and expulsion depending on the offense and findings of disciplinary bodies."
+      "question": "What are examples of major and grave offenses?",
+      "answer": "Major offenses include repeated misconduct, vandalism, and harassment; grave offenses include violence, drug trafficking, robbery, serious criminal acts, and actions endangering others."
     },
     {
-      "question": "What is the appeals process for disciplinary decisions?",
-      "answer": "Students disciplined have recourse to appeal through prescribed channels (e.g., College Dean, University disciplinary committees), within specified time frames—refer to the handbook for procedures."
+      "question": "What disciplinary actions can be taken for offenses?",
+      "answer": "Sanctions range from warnings, reprimands, probation, restitution, suspension, up to expulsion depending on the offense severity and findings."
     },
     {
-      "question": "What are the expected standards for student organizations and events?",
-      "answer": "Student organizations must register, follow constitutions/by-laws, obtain approval for events, and adhere to university policies on safety, decorum, and public conduct."
+      "question": "How is a disciplinary case initiated?",
+      "answer": "Disciplinary cases may be initiated by faculty, staff, or administrators reporting violations to the OSA, Dean, or disciplinary committee, after which investigations and hearings may follow."
+    },
+    {
+      "question": "Can I appeal a disciplinary decision?",
+      "answer": "Yes — students can appeal through prescribed channels (e.g., Dean, University disciplinary board) within specified timeframes and following appeal procedures."
+    },
+    {
+      "question": "What is the policy on harassment and discrimination?",
+      "answer": "CvSU prohibits harassment and discrimination; complaints are investigated and may result in disciplinary action. Support services and reporting mechanisms are available."
     },
     {
       "question": "What is the dress code policy on campus?",
-      "answer": "Students are required to wear appropriate attire. Slippers, short shorts, sando (sleeveless shirts), and other indecent clothing are prohibited in classes and official functions."
-    },
-    
-    {
-      "question": "What is the dress code policy on campus?",
-      "answer": "Students are required to wear appropriate attire. Slippers, short shorts, sando (sleeveless shirts), and other indecent clothing are prohibited in classes and official functions."
+      "answer": "Students should wear appropriate attire; slippers, short shorts, sando (sleeveless shirts), and indecent clothing are prohibited during classes and official functions."
     },
     {
-      "question": "What are the attendance expectations and consequences for absence?",
-      "answer": "Students must attend required class sessions. Failure to attend 20% or more of scheduled class hours (unexcused) may result in being dropped from the course or receiving a failing grade."
+      "question": "What are the attendance expectations and consequences?",
+      "answer": "Students are expected to attend classes regularly. Absence beyond 20% of scheduled hours without valid reason may lead to being dropped from the course or assigned a failing grade."
     },
     {
-      "question": "How are student complaints and grievances handled?",
-      "answer": "Complaints should be filed in writing to the appropriate office (e.g., guidance, OSA, college dean) and follow complaint resolution procedures outlined in the handbook."
+      "question": "Can organizations be sanctioned for misconduct?",
+      "answer": "Yes — student organizations that violate policies may face suspension of activities, loss of recognition, or other penalties affecting officers and members."
     },
     {
-      "question": "Can sanctions be imposed on student organizations as well as individuals?",
-      "answer": "Yes — organizations that violate policies may face sanctions including suspension of privileges, disbandment, or penalties for officers depending on the violation."
-    },
-
-    
-    {
-      "question": "What counseling and guidance services are available?",
-      "answer": "The Guidance Office provides personal counseling, career guidance, testing services, and referrals to other campus or external services."
+      "question": "What are the procedures for campus safety and security incidents?",
+      "answer": "Report incidents to campus security and relevant offices; security will coordinate with authorities, and the university will take appropriate actions per policy."
     },
     {
-      "question": "What services does the CvSU library offer?",
-      "answer": "Library services include book lending, reference assistance, access to e-resources and databases, study spaces, orientation, and research support."
+      "question": "Are there mandatory orientations on conduct and discipline?",
+      "answer": "Yes — students and organization officers may be required to attend orientations on university policies, code of conduct, and event management."
     },
     {
-      "question": "Are computer labs and laboratories open to students?",
-      "answer": "Yes — computer labs and academic laboratories are available according to schedules and lab rules; some require instructor supervision or reservation."
+      "question": "What is the effect of a disciplinary record on graduation or honors?",
+      "answer": "Serious disciplinary findings may affect eligibility for honors, graduation ceremonies, or may result in withholding of certification until matters are resolved."
     },
     {
-      "question": "What health and infirmary services are available on campus?",
-      "answer": "University Health Services provide primary medical consultation, first aid, dental care, health counseling, and referrals to hospitals when necessary."
-    },
-    {
-      "question": "How can I join or create a campus organization?",
-      "answer": "To create or register an organization, submit a constitution/by-laws, list of officers, and application to the Office of Student Affairs for accreditation and recognition."
-    },
-    {
-      "question": "What support does the Office of Student Affairs (OSA) provide?",
-      "answer": "OSA manages student discipline, scholarships and financial assistance, student organizations, socio-cultural activities, and student welfare programs."
-    },
-    {
-      "question": "Is there support for student publications and media?",
-      "answer": "Yes — the University supports student publications which must comply with editorial guidelines and be registered with the relevant university office."
-    },
-    {
-      "question": "Are there student employment or assistant programs?",
-      "answer": "Student assistantship programs may exist; criteria include enrollment status and hours of service—check with the HR/OSA for opportunities and policies."
-    },
-    {
-      "question": "Where can I get help with research or extension services?",
-      "answer": "Contact the Research and Extension offices for project support, training, partnerships, and community extension activities."
-    },
-    {
-      "question": "How do I access campus facilities outside class hours?",
-      "answer": "Facility access rules vary; check building hours and the unit responsible (library, labs, sports complex) for schedules and permission requirements."
+      "question": "Who enforces the student conduct policies?",
+      "answer": "Enforcement is carried out by faculty, College Deans, the OSA, disciplinary committees, and University administration according to established procedures."
     },
 
-    
+   
     {
-      "question": "How are student organizations formally recognized?",
-      "answer": "Recognition requires submitting organizational documents and following procedures of the Office of Student Affairs; recognized groups receive privileges and support."
+      "question": "What counseling services are available to students?",
+      "answer": "Guidance and counseling services provide personal counseling, academic advising, career services, psychological support, and referral to external specialists if needed."
     },
     {
-      "question": "What types of co-curricular activities are available?",
-      "answer": "Activities include seminars, academic competitions, cultural events, sports meets, outreach programs, and student leadership training."
+      "question": "What services does the university library provide?",
+      "answer": "The library offers lending services, reference assistance, access to e-resources and electronic journals, study spaces, research support, and user orientation."
     },
     {
-      "question": "How can I represent the university in competitions?",
-      "answer": "Students selected by coaches or college committees represent the university in sanctioned competitions after meeting eligibility requirements and approval."
+      "question": "Are computer labs open to students and what are the rules?",
+      "answer": "Computer labs are available per published schedules and rules; usage may require sign-up, and labs must be used for academic purposes while adhering to lab policies."
     },
     {
-      "question": "Are there guidelines for on-campus events and outreach?",
-      "answer": "Yes — events must be cleared with the OSA, comply with safety and conduct rules, and follow the booking and budget procedures."
+      "question": "What health services are available on campus?",
+      "answer": "University Health Services provide first aid, consultations, dental services, basic treatments, health promotion, and referrals to hospitals when necessary."
     },
     {
-      "question": "Does CvSU support student volunteerism and outreach?",
-      "answer": "Yes — outreach and community service are encouraged and organized by colleges and extension units; students may join community projects and trainings."
+      "question": "How can I access library electronic resources off campus?",
+      "answer": "Access to certain e-resources may require university login credentials or VPN; consult the library for authentication procedures and remote access options."
     },
     {
-      "question": "Can student organizations receive funding from the university?",
-      "answer": "Recognized organizations may apply for support or funding through the OSA or college allocations following established procedures."
+      "question": "What student support services does OSA offer?",
+      "answer": "OSA provides scholarship assistance, student organization support, guidance services, counseling, discipline management, socio-cultural programming, and coordination of student welfare activities."
     },
     {
-      "question": "How are leadership positions and officer responsibilities regulated?",
-      "answer": "Officer roles are defined in each organization’s constitution/by-laws and must comply with university policies regarding elections, transfers of duty, and accountability."
+      "question": "Are there study spaces and group study rooms?",
+      "answer": "Yes — the library and learning centers provide silent and group study spaces; room booking procedures and time limits may apply."
     },
     {
-      "question": "Are there intramurals or sports programs for students?",
-      "answer": "Yes — CvSU organizes sports programs, intramurals, and participates in intercollegiate athletic meets; student athletes must meet academic and eligibility standards."
+      "question": "How do I become a student assistant or work-study participant?",
+      "answer": "Apply for advertised student assistant openings or work-study programs through departments or HR; eligibility includes enrollment status and academic standing."
     },
     {
-      "question": "What training or certificates are offered for co-curricular competence?",
-      "answer": "Workshops, seminars, and leadership training are periodically organized and some may offer certificates or co-curricular credit depending on the program."
+      "question": "What services support students with disabilities?",
+      "answer": "Support services, reasonable accommodations, and referral processes are available; students should contact the Guidance Office or OSA to request assistance."
     },
     {
-      "question": "How can students propose new co-curricular activities?",
-      "answer": "Students propose activities through their organization adviser and the OSA; proposals should include objectives, budgets, schedules, and safety measures."
+      "question": "How do I request official documents like certificates or transcripts?",
+      "answer": "Submit requests to the Registrar and pay required fees; processing times are published and official documents are released after verification and clearance."
+    },
+    {
+      "question": "Where can I get help for research or extension projects?",
+      "answer": "Contact the Research and Extension offices for support, funding opportunities, training, and partnership facilitation for community-based projects."
+    },
+    {
+      "question": "How do I report maintenance issues or facility concerns?",
+      "answer": "Report issues to campus facilities/maintenance through the appropriate office or online reporting system; urgent matters may be reported to campus security."
+    },
+
+   
+    {
+      "question": "How do I form or register a student organization?",
+      "answer": "Submit a constitution and by-laws, list of officers, adviser endorsement, and application to the OSA for accreditation and recognition; follow registration procedures and orientation requirements."
+    },
+    {
+      "question": "What events require approval from OSA?",
+      "answer": "All student-led events, fundraisers, large gatherings, and outreach activities require prior clearance and approval from OSA, and may need documentation on safety and sponsorship."
+    },
+    {
+      "question": "How are students selected to represent CvSU in competitions?",
+      "answer": "Teams and representatives are selected based on tryouts, nominations, or college committee recommendations, and must meet eligibility criteria including academic standing."
+    },
+    {
+      "question": "Can student organizations receive university funding?",
+      "answer": "Recognized organizations may apply for funding or support through college allocations or OSA-sponsored grants following established application and accountability procedures."
+    },
+    {
+      "question": "What guidelines govern travel for university teams or groups?",
+      "answer": "Travel requires authorization, travel orders, adviser oversight, proper documentation, and compliance with university policies on safety and funding."
+    },
+    {
+      "question": "What insurance or liability coverage exists for student events?",
+      "answer": "Event liability and insurance policies depend on university arrangements; organizers should consult OSA and Risk Management for requirements and coverage details."
+    },
+    {
+      "question": "Are there advisors for student organizations?",
+      "answer": "Yes — recognized student organizations must have a faculty or staff adviser approved by the college and OSA."
+    },
+    {
+      "question": "What are requirements for student leadership elections?",
+      "answer": "Elections should follow the organization’s constitution and university guidelines; eligibility, campaigning rules, and timelines are provided by OSA or the Student Council."
+    },
+    {
+      "question": "Are certificates or co-curricular credits provided for activities?",
+      "answer": "Participation certificates and co-curricular recognition may be issued for certain activities; approval and documentation depend on the activity and college policies."
+    },
+    {
+      "question": "How do I propose a new co-curricular program?",
+      "answer": "Submit a proposal including objectives, budget, schedule, safety measures, and adviser endorsement to OSA or the sponsoring college for review and approval."
     },
 
     
     {
       "question": "What are the general requirements for graduation?",
-      "answer": "Complete all curricular requirements, satisfy residency, clear all financial and administrative accountabilities, and have final grades and clearances submitted within the prescribed timeframe."
+      "answer": "Complete all curricular courses, fulfill residency and internship/practicum requirements, clear all financial and property obligations, and secure necessary clearances from offices and departments."
     },
     {
-      "question": "How do I get clearance before graduation?",
-      "answer": "Obtain clearance from the Library, Accounting/Cashier, Registrar, and other offices (e.g., department or college) by settling obligations and submitting required documents."
+      "question": "How do I apply to be included in the graduation list?",
+      "answer": "Submit graduation application forms to the Registrar within the prescribed timelines and ensure all academic requirements and clearances are in place."
     },
     {
-      "question": "What are the rules on submission of final grades for graduating students?",
-      "answer": "Final grades for graduating students must be submitted within the timeline specified by the Registrar (for example within ten working days after final exams) for graduation processing."
+      "question": "What is the process for clearance before graduation?",
+      "answer": "Obtain clearance from the Library, Accounting/Cashier, Registrar, department/college, and any other required offices by settling obligations and submitting documents."
     },
     {
-      "question": "What are the residency requirements for graduation?",
-      "answer": "Students are usually required to have completed at least one year of residency immediately prior to graduation (check your program-specific residency rules)."
+      "question": "When are diplomas and transcripts released?",
+      "answer": "Diplomas and official transcripts are released after graduation certification, clearance, and settlement of obligations; release dates are provided by the Registrar after commencement."
     },
     {
-      "question": "What are the requirements to graduate with honors?",
-      "answer": "Honors are based on GPA thresholds (e.g., Summa, Magna, Cum Laude) and other eligibility rules such as a minimum number of units taken at CvSU, no disqualifying grades, and residency requirements."
+      "question": "How are academic honors awarded at graduation?",
+      "answer": "Honors (Cum Laude, Magna, Summa) are awarded based on GPA thresholds and meeting residency and grade requirements, with verification done by the Registrar and Academic Council."
     },
     {
-      "question": "Can a student graduate in absentia?",
-      "answer": "Graduation in absentia may be allowed only with prior written request and valid justification; otherwise attendance at the commencement exercise is typically required."
+      "question": "Can students graduate without attending commencement?",
+      "answer": "Graduation in absentia may be permitted with prior approval; students who do not attend the ceremony may still receive diplomas once cleared."
     },
     {
-      "question": "What happens if I haven’t cleared my deficiencies before graduation?",
-      "answer": "Graduation candidacy may be withheld until deficiencies are cleared; candidates must complete outstanding requirements or the Registrar may delay certification."
+      "question": "What happens if I have pending grades at graduation application time?",
+      "answer": "Pending grades or outstanding INCs may disqualify you from graduation until resolved; check with your department and the Registrar for options or deferment."
     },
     {
-      "question": "Are diplomas withheld for unpaid fees?",
-      "answer": "Yes — diplomas, transcripts, or certificates may be withheld if financial obligations to the University are not settled."
+      "question": "Are there residency or minimum unit requirements for graduation with honors?",
+      "answer": "Yes — specific residency unit requirements (number of units completed at CvSU) and no disqualifying grades are required for honors; check program rules in the handbook."
     },
     {
-      "question": "How are awardees and academic distinctions announced?",
-      "answer": "Academic honors and awards are announced by the Academic Council or the Registrar after verification of records and compliance with requirements."
+      "question": "What is the timeline for final grade submission for graduating students?",
+      "answer": "Instructors must submit final grades within the deadlines set by the Registrar to allow for processing before graduation ceremonies."
     },
     {
-      "question": "Who decides the final list of graduates?",
-      "answer": "The Registrar, in consultation with College Deans and the University Academic Council, finalizes and publishes the official list of graduates."
+      "question": "Who certifies and publishes the final list of graduates?",
+      "answer": "The Registrar, in consultation with College Deans and the University Academic Council, certifies and publishes the final graduation list."
     },
 
     
+    {
+      "question": "How can I apply for leave of absence (LOA)?",
+      "answer": "Submit a written LOA request to the Registrar with supporting documents and obtain necessary approvals; LOA length and conditions are specified in the handbook."
+    },
+    {
+      "question": "What is an honorable dismissal and how do I get one?",
+      "answer": "An Honorable Dismissal is issued to students leaving in good standing; request it from the Registrar after clearing obligations and submitting required documentation."
+    },
+    {
+      "question": "What are the rules for withdrawing from the university?",
+      "answer": "Formal withdrawal requires submission of withdrawal forms and clearances; refunds and academic consequences depend on timing and policy."
+    },
+    {
+      "question": "How do I change or shift my course/program?",
+      "answer": "Submit a formal application to shift courses, meet program requirements, secure endorsements, and obtain approval from the receiving college and Registrar."
+    },
+    {
+      "question": "What are the policies for returning students after extended leave?",
+      "answer": "Returning students must secure clearance, update records, and comply with any curriculum changes or new requirements before re-enrollment."
+    },
+    {
+      "question": "When are classes suspended and who decides this?",
+      "answer": "Class suspension is declared by the University President (or authorized official) during severe weather, natural disasters, or emergencies, often guided by PAGASA advisories."
+    },
+    {
+      "question": "What are the rules for summer and special terms?",
+      "answer": "Summer and special term regulations include limited load rules, enrollment procedures, and specific calendars; consult summer term guidelines for details."
+    },
+    {
+      "question": "How are donations, alumni relations, and partnerships handled?",
+      "answer": "Donations and partnerships are coordinated by designated offices; alumni activities and relations are managed by the Alumni Affairs or Development Office."
+    },
+    {
+      "question": "Where can I find the latest version of the Student Handbook?",
+      "answer": "The latest handbook is available on the university website, Registrar, and OSA offices; always consult the official handbook for authoritative policies."
+    },
+    {
+      "question": "How do I provide feedback or suggestions about university policies?",
+      "answer": "Submit feedback to the relevant office (e.g., OSA, Registrar, Student Council) or through official feedback channels; suggestions may be reviewed in policy committees."
+    },
+    {
+      "question": "Who should I contact for emergencies on campus?",
+      "answer": "Contact campus security or emergency hotlines listed in the handbook and on campus signage; urgent medical needs should be directed to University Health Services."
+    },
+
     
     {
-      "question": "What is the policy on leave of absence (LOA)?",
-      "answer": "A student may apply for LOA by submitting a written request to the Registrar and obtaining necessary approvals; LOA may be granted for valid reasons and usually limited to one academic year."
+      "question": "What official publications should students regularly check?",
+      "answer": "Students should check official notices, circulars, the university website, student portals, and posted advisories for updates on policies, schedules, and announcements."
     },
     {
-      "question": "What is an honorable dismissal and how is it requested?",
-      "answer": "An Honorable Dismissal is requested when a student voluntarily withdraws in good standing; request through the Registrar and clear all accountabilities before issuance."
+      "question": "Where are faculty and staff directories found?",
+      "answer": "Faculty and staff directories are published in the handbook, college pages, and the university website for contact and office details."
     },
     {
-      "question": "What are the rules for withdrawing or dropping subjects?",
-      "answer": "Subjects may be dropped within the allowed period (commonly within the first six weeks of regular classes). Refunds for dropped courses usually only apply within specific refund windows; dropping late requires valid reasons and approvals."
+      "question": "Are there guidelines for student media and publications?",
+      "answer": "Yes — student publications must be registered, comply with editorial guidelines, and coordinate with the Office of Student Affairs; freedom of the press operates within university policy."
+    },
+
+    
+    {
+      "question": "What is the policy on admission for mature or special applicants?",
+      "answer": "Mature or special applicants follow alternative admission procedures based on competency assessments or interviews; consult Admissions for program-specific options."
     },
     {
-      "question": "How can I change or shift my course/program?",
-      "answer": "Shifting requires a formal application, approval by the receiving college, certification by the Registrar, and meeting program-specific requirements and prerequisites."
+      "question": "How are admission offers communicated?",
+      "answer": "Admission offers are communicated via official letters, email, or posted notices; accepted applicants must follow instructions for enrollment."
     },
     {
-      "question": "What are the policies for returning students?",
-      "answer": "Returning students must present clearance, update their records, comply with current curriculum requirements, and secure approval for re-enrollment through the Registrar."
+      "question": "Can I defer my admission offer to the next term?",
+      "answer": "Admission deferral policies vary; contact Admissions to request deferral and learn about deadlines and conditions."
     },
     {
-      "question": "When can classes be suspended and who decides this?",
-      "answer": "Class suspension may be declared by the University President (or authorized officials) during severe weather events, natural disasters, or emergencies. PAGASA advisories (e.g., typhoon signals) and disaster severity guide such decisions."
+      "question": "What is the change of major or program process during the first year?",
+      "answer": "Change of major requires adviser consultation, meeting prerequisite and screening criteria, submission of application, and approval by the receiving college."
     },
     {
-      "question": "What are the special rules for summer, evening, or Saturday classes?",
-      "answer": "Summer and evening classes follow specific rules on maximum loads and scheduling; these offerings have separate enrollment procedures and may limit unit loads depending on program guidance."
+      "question": "Are there orientation programs for new students?",
+      "answer": "Yes — new student orientation introduces policies, services, campus life, and must-attend sessions are organized before the term starts."
+    },
+
+    
+    {
+      "question": "What is the policy on class attendance for laboratory sessions?",
+      "answer": "Laboratory attendance is mandatory and may have separate attendance thresholds due to safety and collaborative requirements; missing labs can affect grading."
     },
     {
-      "question": "What are the rules on refund of paid deposits?",
-      "answer": "Deposits may be refundable under certain conditions (e.g., withdrawal within allowable period or graduation) and are processed through Accounting per documented procedures."
+      "question": "How are field trips and off-campus activities graded?",
+      "answer": "Field trips and off-campus activities are graded per course syllabus with prior approval and safety protocols; participation and reports may form part of assessment."
     },
     {
-      "question": "What are the consequences if I exceed the maximum allowed time to finish my degree?",
-      "answer": "If students exceed the time limit (e.g., more than two years beyond prescribed program length), they may be advised to transfer to another program (e.g., Open Learning College) or follow readmission procedures."
+      "question": "What is the timeframe for grade changes after submission?",
+      "answer": "Grade change requests must be filed within the timeframe specified by the Registrar, supported by documentation and approvals."
     },
     {
-      "question": "Where can I find the complete handbook and updates?",
-      "answer": "The full Student Handbook and official updates are available on the University website and via the Registrar or Office of Student Affairs; students should consult these sources for authoritative policies."
+      "question": "Are there special provisions for pregnant or parenting students?",
+      "answer": "Supportive arrangements for pregnant or parenting students, including leave and academic accommodations, may be available—contact Guidance/OSA for options."
+    },
+    {
+      "question": "What are the rules on academic load reduction for students with disabilities?",
+      "answer": "Students with documented disabilities may request load adjustments or accommodations through Guidance/Student Services with appropriate documentation."
+    },
+
+    
+    {
+      "question": "How do I apply for installment plans and what documents are required?",
+      "answer": "Submit a request at the Cashier with identification and justification; installment approval may require guarantor information and adherence to schedule agreements."
+    },
+    {
+      "question": "What happens if I fail to pay fees on time?",
+      "answer": "Late payments may incur fines, hold on registration, and restriction on accessing records or services until obligations are settled."
+    },
+    {
+      "question": "Are there special funds for students in crisis?",
+      "answer": "Emergency assistance or crisis funds may be available through OSA or student welfare programs; contact OSA for application and eligibility."
+    },
+    {
+      "question": "How are scholarship award letters and obligations documented?",
+      "answer": "Scholarship awards are formalized through award letters outlining obligations, renewal criteria, and conditions; keep copies for compliance and appeals."
+    },
+    {
+      "question": "Are student fees itemized and transparent?",
+      "answer": "Yes — fee assessments are itemized to show tuition, laboratory, student services, and miscellaneous fees; ask Accounting for clarification on any charge."
+    },
+
+    
+    {
+      "question": "What is the disciplinary hearing process?",
+      "answer": "Disciplinary hearings involve filing of charges, investigation, opportunity for the accused to be heard, deliberation by a committee, and issuance of sanctions if warranted."
+    },
+    {
+      "question": "Are students allowed legal representation during hearings?",
+      "answer": "Students may be allowed to consult an adviser, but legal representation policies vary; consult the handbook or disciplinary office for rules on representation."
+    },
+    {
+      "question": "Can a student be suspended for off-campus misconduct?",
+      "answer": "Off-campus misconduct that affects the university community or violates laws may be subject to university discipline in accordance with policy."
+    },
+    {
+      "question": "What support is available for victims of misconduct?",
+      "answer": "Support includes counseling, medical referrals, privacy protections, and assistance through OSA or Guidance Office; report incidents promptly."
+    },
+    {
+      "question": "What are student rights during disciplinary proceedings?",
+      "answer": "Students are entitled to notice of charges, opportunity to respond, presentation of evidence, and the right to appeal per university procedures."
+    },
+
+    
+    {
+      "question": "How do I reserve a study room or facility for group work?",
+      "answer": "Reserve via the library or facility booking system, following rules on time slots and usage; adviser endorsement may be required for long bookings."
+    },
+    {
+      "question": "Are printing and copying services available on campus?",
+      "answer": "Yes — printing and photocopy services are available for a fee at designated units; student discounts or allocations may apply in certain programs."
+    },
+    {
+      "question": "How are lost and found items handled?",
+      "answer": "Turn in lost items to campus security or the designated lost-and-found office; identify and claim items with proper identification and proof of ownership."
+    },
+    {
+      "question": "What transport or parking facilities are available on campus?",
+      "answer": "Parking and transport policies vary by campus; student parking permits may be required and fees may apply; consult campus security for rules."
+    },
+    {
+      "question": "Are there student lounges or common areas for relaxation?",
+      "answer": "Yes — campus common areas and student lounges are available, but rules on conduct and hours apply to preserve order and safety."
+    },
+
+    
+    {
+      "question": "What insurance is required for off-campus service-learning activities?",
+      "answer": "Insurance requirements depend on the activity risk; departments or OSA will advise on mandatory coverage and participant waivers."
+    },
+    {
+      "question": "How do I document participation for my co-curricular record?",
+      "answer": "Get official signatures and certificates from event organizers or OSA; maintain a portfolio of participation forms for verification and co-curricular credit."
+    },
+    {
+      "question": "What are fundraising rules for student organizations?",
+      "answer": "Fundraising requires OSA approval, transparent accounting, and compliance with university policies on solicitation and use of proceeds."
+    },
+    {
+      "question": "How are travel costs for student activities covered?",
+      "answer": "Travel costs may be covered by organization funds, college support, or sponsorships; budget proposals and approvals are required before travel."
+    },
+    {
+      "question": "How do I request equipment or facilities for an event?",
+      "answer": "Submit an equipment/facility request form with details, schedule, and adviser endorsement to OSA or the unit managing the facility."
+    },
+
+    
+    {
+      "question": "Can I check my degree progress online?",
+      "answer": "Degree progress tracking may be available through the student portal or adviser consultations; verify graduation requirements with your college."
+    },
+    {
+      "question": "What documents are required for commencement participation?",
+      "answer": "Complete clearance, payment of graduation fees, and submission of final requirements are typically required to qualify for commencement participation."
+    },
+    {
+      "question": "What happens if I fail a required course in my final term?",
+      "answer": "Failing a required course in the final term may delay graduation and require re-enrollment or completion of the course in a subsequent term; consult your college for options."
+    },
+    {
+      "question": "How are alumni records handled after graduation?",
+      "answer": "Alumni records are maintained by the Registrar and Alumni Office for issuance of transcripts, diplomas, and alumni engagement."
+    },
+    {
+      "question": "How do I request a replacement diploma?",
+      "answer": "Request replacement diplomas through the Registrar with valid identification and required fees; processing times and documentation are specified."
+    },
+
+    
+    {
+      "question": "What is the process for petitioning exceptions to university policies?",
+      "answer": "Submit a formal petition with justification and supporting documents to the appropriate office (e.g., Dean or Academic Council) for consideration."
+    },
+    {
+      "question": "How are policy updates and revisions communicated to students?",
+      "answer": "Policy updates are communicated via official circulars, website postings, and notice boards; students are expected to keep informed of changes."
+    },
+    {
+      "question": "What is the university's stance on environmental sustainability?",
+      "answer": "CvSU promotes sustainable practices through campus initiatives, research, and policies encouraging conservation and environmental responsibility."
+    },
+    {
+      "question": "How can I request exceptions for medical or compassionate reasons?",
+      "answer": "Submit medical certificates and compassionate petitions to the Registrar or Dean; requests are considered on a case-by-case basis with supporting documentation."
+    },
+    {
+      "question": "Where can international students get assistance for visas and permits?",
+      "answer": "International students should coordinate with the Registrar and International Office for visa guidance, permit processing, and required documentation."
+    },
+
+    
+    {
+      "question": "What is the best way to stay informed about campus emergencies?",
+      "answer": "Register for official emergency alerts, monitor university channels, follow campus security instructions, and check the official website and social media channels."
+    },
+    {
+      "question": "How do I update my personal information on university records?",
+      "answer": "Submit changes (address, phone, email) to the Registrar with supporting ID or forms to ensure accurate records and correspondence."
+    },
+    {
+      "question": "How does the university handle intellectual property and research outputs?",
+      "answer": "Research and IP policies govern ownership, publication, and commercialization; consult the Research Office for guidelines on disclosures and agreements."
+    },
+    {
+      "question": "Are there policies for data privacy and student records?",
+      "answer": "Yes — the university adheres to data privacy principles for managing student records and protects personal information in compliance with applicable laws and university rules."
+    },
+    {
+      "question": "Who can I contact for help with student financial crisis or emergency aid?",
+      "answer": "Contact the Office of Student Affairs or the Financial Assistance Unit for emergency aid options and guidance on application procedures."
     }
   ]
 }

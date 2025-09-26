@@ -14,63 +14,74 @@ app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
 
 # Synonym dictionary for rule-based keyword matching
 SYNONYM_DICT = {
-    # General Information
-    'vision': ['goal', 'aim', 'objective', 'aspiration', 'outlook'],
-    'mission': ['purpose', 'objective', 'commitment', 'mandate', 'direction'],
-    'values': ['principles', 'ethics', 'beliefs', 'standards', 'virtues'],
-    'history': ['background', 'origin', 'past', 'foundation', 'establishment'],
+    # --- General Information ---
+    "vision": ["goal", "aim", "objective", "aspiration", "outlook"],
+    "mission": ["purpose", "mandate", "commitment", "direction"],
+    "values": ["principles", "ethics", "beliefs", "standards", "virtues"],
+    "history": ["background", "origin", "foundation", "establishment"],
+    "institution": ["university", "school", "campus", "college"],
 
-    # Admission & Enrollment
-    'admission': ['entry', 'acceptance', 'entrance', 'application'],
-    'enrollment': ['registration', 'admission', 'application', 'enrol', 'enlist', 'sign-up'],
-    'requirements': ['documents', 'papers', 'credentials', 'needs', 'prerequisites'],
-    'transferee': ['transfer student', 'shifter', 'cross-registrant'],
-    'exam': ['test', 'assessment', 'evaluation', 'examination', 'entrance exam'],
+    # --- Admission & Enrollment ---
+    "admission": ["entry", "acceptance", "application", "entrance"],
+    "enrollment": ["registration", "sign-up", "matriculation", "joining"],
+    "requirements": ["documents", "papers", "credentials", "needs", "prerequisites"],
+    "transferee": ["transfer student", "shifter", "cross-registrant"],
+    "exam": ["test", "assessment", "evaluation", "entrance exam"],
+    "foreign": ["international", "non-local", "overseas"],
 
-    # Academic Policies
-    'grades': ['marks', 'scores', 'results', 'evaluation', 'rating', 'grading'],
-    'grading': ['evaluation', 'assessment', 'marking'],
-    'subjects': ['courses', 'classes', 'units', 'lectures'],
-    'load': ['units', 'subjects', 'enlistment', 'course load'],
-    'probation': ['warning', 'deficiency', 'academic standing', 'scholastic status'],
-    'disqualification': ['dismissal', 'expulsion', 'termination'],
+    # --- Academic Policies ---
+    "grades": ["marks", "scores", "results", "ratings"],
+    "grading": ["evaluation", "assessment", "marking system"],
+    "subjects": ["courses", "classes", "units", "lectures"],
+    "load": ["units", "course load", "subjects"],
+    "probation": ["warning", "deficiency", "academic standing"],
+    "disqualification": ["dismissal", "expulsion", "termination"],
+    "records": ["transcript", "TOR", "academic file"],
+    "attendance": ["presence", "absences", "participation"],
+    "dishonesty": ["cheating", "plagiarism", "copying", "fraud"],
 
-    # Fees & Scholarships
-    'tuition': ['fee', 'payment', 'cost', 'expense', 'price'],
-    'fees': ['payment', 'charges', 'cost', 'expenses'],
-    'scholarship': ['grant', 'aid', 'assistance', 'financial aid', 'support', 'sponsorship'],
-    'refund': ['reimbursement', 'repayment', 'return'],
+    # --- Fees & Scholarships ---
+    "tuition": ["fees", "payment", "charges", "costs", "expenses", "schooling cost"],
+    "refund": ["reimbursement", "repayment", "return"],
+    "scholarship": ["grant", "financial aid", "assistance", "support", "sponsorship"],
+    "discount": ["deduction", "reduction", "fee cut"],
+    "installment": ["partial payment", "staggered payment", "deferred payment"],
 
-    # Conduct & Discipline
-    'rules': ['regulations', 'policies', 'guidelines', 'protocol', 'standards'],
-    'discipline': ['sanctions', 'punishment', 'penalty', 'conduct'],
-    'offenses': ['violations', 'misconduct', 'infractions'],
-    'attendance': ['presence', 'absences', 'participation'],
-    'dress_code': ['uniform', 'attire', 'clothing', 'clothing policy','dress', 'outfit', 'wear', 'dress code', 'appearance'],
+    # --- Student Conduct & Discipline ---
+    "rules": ["regulations", "policies", "guidelines", "protocols", "standards"],
+    "discipline": ["sanctions", "punishment", "penalty", "conduct"],
+    "offenses": ["violations", "infractions", "misconduct", "wrongdoing"],
+    "dress code": ["uniform", "attire", "clothing policy", "appearance"],
+    "harassment": ["bullying", "abuse", "discrimination", "violence"],
 
+    # --- Student Services & Facilities ---
+    "student": ["learner", "undergraduate", "enrollee", "pupil"],
+    "teacher": ["professor", "instructor", "faculty", "educator"],
+    "library": ["learning resource", "study area", "reading room", "resources"],
+    "counseling": ["guidance", "advice", "support services"],
+    "health": ["medical", "clinic", "infirmary", "wellness"],
+    "organization": ["club", "association", "student group", "society"],
+    "osa": ["office of student affairs", "student office", "welfare office"],
 
-    # Services & Facilities
-    'student': ['learner', 'undergraduate', 'enrollee', 'pupil'],
-    'teacher': ['professor', 'instructor', 'faculty', 'educator'],
-    'library': ['learning resource', 'study area', 'resources', 'books'],
-    'counseling': ['guidance', 'advice', 'support services'],
-    'health': ['medical', 'clinic', 'infirmary', 'wellness'],
+    # --- Co-Curricular & Extra-Curricular ---
+    "activities": ["events", "programs", "seminars", "trainings", "competitions"],
+    "sports": ["athletics", "games", "tournaments", "intramurals"],
+    "volunteer": ["outreach", "service", "community work"],
+    "leadership": ["student council", "officer", "representative"],
 
-    # Activities
-    'organizations': ['clubs', 'associations', 'societies', 'student groups'],
-    'activities': ['events', 'competitions', 'seminars', 'programs', 'trainings'],
-    'sports': ['athletics', 'games', 'tournaments', 'intramurals'],
+    # --- Graduation & Completion ---
+    "graduation": ["commencement", "completion", "finishing school", "conferment"],
+    "honors": ["awards", "recognition", "distinction", "achievements"],
+    "diploma": ["certificate", "degree paper"],
+    "clearance": ["sign-off", "exit form", "obligation check"],
 
-    # Graduation & Completion
-    'graduation': ['commencement', 'completion', 'conferment', 'finishing'],
-    'honors': ['awards', 'recognition', 'distinction'],
-    'diploma': ['certificate', 'degree paper'],
-
-    # Miscellaneous
-    'leave': ['absence', 'break', 'time-off', 'LOA'],
-    'dismissal': ['expulsion', 'exclusion', 'termination'],
-    'withdrawal': ['dropping', 'cancellation', 'exit'],
-    'campus': ['school', 'university', 'institution', 'college', 'grounds']
+    # --- Miscellaneous / Special Policies ---
+    "leave": ["absence", "break", "time-off", "loa"],
+    "withdrawal": ["dropping", "cancellation", "exit"],
+    "shifting": ["change course", "transfer program", "move major"],
+    "returnee": ["come back", "re-enroll", "continuing student"],
+    "suspension": ["class stoppage", "cancellation", "holiday"],
+    "emergency": ["crisis", "incident", "disaster", "urgent situation"]
 }
 
 # Load spaCy model
