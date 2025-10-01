@@ -55,11 +55,14 @@ The system uses a Flask-based backend with the following components:
 1. **Python 3.x**
    - Main programming language for backend development
    - Handles core logic and NLP processing
+   - Advanced error handling and logging
 
 2. **Flask Framework**
    - Web application framework
    - Handles routing and API endpoints
    - Manages static file serving
+   - CORS support via Flask-CORS
+   - Comprehensive error handling middleware
 
 3. **spaCy**
    - Natural Language Processing library
@@ -75,9 +78,11 @@ The system uses a Flask-based backend with the following components:
 
 ### Libraries and Dependencies
 - Flask: Web framework
+- Flask-CORS: Cross-origin resource sharing support
 - spaCy: NLP processing
 - NumPy: Numerical computations
 - JSON: Data storage and manipulation
+- Logging: System monitoring and debugging
 
 ## Features
 
@@ -195,7 +200,7 @@ def nlp_search(query):
 1. Clone the repository
 2. Install required packages:
    ```bash
-   pip install flask spacy numpy
+   pip install flask flask-cors spacy numpy
    ```
 3. Download spaCy model:
    ```bash
@@ -237,8 +242,27 @@ def nlp_search(query):
 - Optimized similarity thresholds
 - Efficient data structure usage
 
-## Error Handling
-- Input validation
-- Graceful fallbacks
-- Helpful error messages
-- Suggestion system for near matches
+## Error Handling & Logging
+1. **Request Validation**
+   - JSON format verification
+   - Content-type checking
+   - Input sanitization
+   - Appropriate error responses
+
+2. **System Logging**
+   - Detailed operation logging with timestamps
+   - Error tracking with stack traces
+   - Performance monitoring
+   - Debug information
+   - Request/response logging
+
+3. **User Feedback**
+   - Clear error messages
+   - Suggested actions
+   - Alternative responses
+   - Related topics when appropriate
+
+4. **CORS Support**
+   - Cross-origin resource sharing enabled
+   - Secure cross-domain communication
+   - Proper header handling
